@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="doc-latlong.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="149.88279"
+     inkscape:cy="829.66776"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1105"
+       width="137.91107"
+       height="39.555889"
+       x="10.958051"
+       y="17.970613" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.22919624;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="64.118492"
+       height="25.097139"
+       x="13.911112"
+       y="95.75914" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot817"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.9399648,24.856065)"><flowRegion
+         id="flowRegion819"><rect
+           id="rect821"
+           width="252.53813"
+           height="83.842636"
+           x="66.670067"
+           y="272.98138" /></flowRegion><flowPara
+         id="flowPara827"
+         style="font-size:13.33333397px;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><flowSpan
+   style="fill:#800000"
+   id="flowSpan855">module</flowSpan> <flowSpan
+   style="fill:#008000"
+   id="flowSpan861">Redmine</flowSpan></flowPara><flowPara
+         style="font-size:13.33333397px;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowPara851">  <flowSpan
+   style="fill:#800000"
+   id="flowSpan857">module</flowSpan> <flowSpan
+   style="fill:#008000"
+   id="flowSpan863">FieldFormat</flowSpan></flowPara><flowPara
+         style="font-size:13.33333397px;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowPara853">    <flowSpan
+   style="fill:#800000"
+   id="flowSpan859">class</flowSpan> <flowSpan
+   style="fill:#008000"
+   id="flowSpan865">LatlongFormat</flowSpan> &lt; <flowSpan
+   style="fill:#008000"
+   id="flowSpan867">Redmine::FieldFormat::Unbounded</flowSpan></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="14.699824"
+       y="23.583273"
+       id="text926"><tspan
+         sodipodi:role="line"
+         id="tspan924"
+         x="14.699824"
+         y="23.583273"
+         style="font-weight:bold;font-size:3.52777767px;stroke-width:0.26458332px"><tspan
+   style="fill:#008000"
+   id="tspan1107">[@machine plugins]$</tspan>  <tspan
+   style="font-weight:normal;fill:#00ff00"
+   id="tspan1103">find latlong/ -type f</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="14.699824"
+         y="28.88872"
+         style="font-size:3.52777767px;fill:#00ff00;stroke-width:0.26458332px"
+         id="tspan928">latlong/init.rb</tspan><tspan
+         sodipodi:role="line"
+         x="14.699824"
+         y="34.194168"
+         style="font-size:3.52777767px;fill:#00ff00;stroke-width:0.26458332px"
+         id="tspan930">latlong/app/views/latlong/formats/_latlong_field_format.html.erb</tspan><tspan
+         sodipodi:role="line"
+         x="14.699824"
+         y="39.499615"
+         style="font-size:3.52777767px;fill:#00ff00;stroke-width:0.26458332px"
+         id="tspan932">latlong/config/locales/pt-BR.yml</tspan><tspan
+         sodipodi:role="line"
+         x="14.699824"
+         y="44.805061"
+         style="font-size:3.52777767px;fill:#00ff00;stroke-width:0.26458332px"
+         id="tspan934">latlong/lib/latlong_field_format/formats/latlong_field_format.rb</tspan><tspan
+         sodipodi:role="line"
+         x="14.699824"
+         y="50.110508"
+         style="font-size:3.52777767px;fill:#00ff00;stroke-width:0.26458332px"
+         id="tspan936">latlong/lib/latlong_field_format/patches/custom_field_patch.rb</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.911112"
+       y="94.700806"
+       id="text940"><tspan
+         sodipodi:role="line"
+         id="tspan938"
+         x="13.911112"
+         y="94.700806"
+         style="font-size:3.52777767px;fill:#333333;stroke-width:0.26458332px">latlong_field_format.rb</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot956"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.6036172,0.26726955)"><flowRegion
+         id="flowRegion958"><rect
+           id="rect960"
+           width="226.27417"
+           height="188.89853"
+           x="69.700523"
+           y="466.93069" /></flowRegion><flowPara
+         id="flowPara962"
+         style="font-weight:bold;font-size:13.33333397px">edit_tag</flowPara><flowPara
+         id="flowPara964"
+         style="font-size:13.33333397px">    renders an HTML Input for create/edit issue</flowPara><flowPara
+         id="flowPara966"
+         style="font-weight:bold;font-size:13.33333397px">validate_single_value</flowPara><flowPara
+         id="flowPara968"
+         style="font-size:13.33333397px">   validate the input data</flowPara><flowPara
+         id="flowPara970"
+         style="font-weight:bold;font-size:13.33333397px">cast_single_value</flowPara><flowPara
+         id="flowPara972"
+         style="font-size:13.33333397px">   method used to return a TEXT representation of the input data</flowPara></flowRoot>    <rect
+       y="95.75914"
+       x="98.902817"
+       height="25.097139"
+       width="64.118492"
+       id="rect974"
+       style="opacity:1;vector-effect:none;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.22919624;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,82.051745,24.856065)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1000"
+       xml:space="preserve"><flowRegion
+         id="flowRegion978"><rect
+           y="272.98138"
+           x="66.670067"
+           height="83.842636"
+           width="252.53813"
+           id="rect976" /></flowRegion><flowPara
+         style="font-size:13.33333397px;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowPara984"><flowSpan
+   id="flowSpan980"
+   style="fill:#800000">module</flowSpan> <flowSpan
+   style="fill:#008000"
+   id="flowSpan1006">LatlongFieldFormat</flowSpan></flowPara><flowPara
+         id="flowPara990"
+         style="font-size:13.33333397px;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">  <flowSpan
+   id="flowSpan986"
+   style="fill:#800000">module</flowSpan> <flowSpan
+   style="fill:#008000"
+   id="flowSpan1008">CustomFieldPatch</flowSpan></flowPara><flowPara
+         id="flowPara998"
+         style="font-size:13.33333397px;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">    <flowSpan
+   style="fill:#800000"
+   id="flowSpan1014">extend</flowSpan> <flowSpan
+   style="fill:#008080"
+   id="flowSpan1016">ActiveSupport</flowSpan>::Concern<flowSpan
+   id="flowSpan996"
+   style="fill:#008000" /></flowPara></flowRoot>    <text
+       id="text1004"
+       y="94.700806"
+       x="98.902817"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777767px;fill:#333333;stroke-width:0.26458332px"
+         y="94.700806"
+         x="98.902817"
+         id="tspan1002"
+         sodipodi:role="line">custom_field_patch.rb</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,87.129866,0.26726955)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1036"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1022"><rect
+           y="466.93069"
+           x="69.700523"
+           height="188.89853"
+           width="226.27417"
+           id="rect1020" /></flowRegion><flowPara
+         style="font-size:13.33333397px"
+         id="flowPara1034">Defines how to store the data</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 43.564933,86.92615 72.162771,58.328312"
+       id="path1113"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 115.46043,87.995228 86.328055,58.86285"
+       id="path1115"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4.5435815"
+       y="9.6852636"
+       id="text1119"><tspan
+         sodipodi:role="line"
+         id="tspan1117"
+         x="4.5435815"
+         y="9.6852636"
+         style="fill:#0000ff;stroke-width:0.26458332px">Tópico no Fórum do Redmine: https://www.redmine.org/boards/3/topics/58950 </tspan></text>
+  </g>
+</svg>

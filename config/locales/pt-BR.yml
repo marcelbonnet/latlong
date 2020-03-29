@@ -1,0 +1,7 @@
+pt-BR:
+  label_latlong: "Coordenadas Geográficas"  
+  label_latitude: "Latitude"
+  label_longitude: "Longitude"
+  label_lat_validator_regex: "Regex para Validação de Latitude"
+  label_long_validator_regex: "Regex para Validação de Longitude"
+  label_raio: "Raio"

@@ -1,0 +1,19 @@
+<%# partial usado na edição do Custom Field na interface administrativa %>
+<%#= render :partial => 'custom_fields/formats/regexp', :locals => {:f => f, :custom_field => custom_field} %>
+
+<%
+	# recupera os valores dos atributos do usuário. Se não houver nenhum, sugerirá valores apropriados:
+	lat_regex = "(^([-]?[0-9]{1,2})$)|(^([-]?[0-9]{1,2}\.[0-9]{1,15})$)"
+	lon_regex = "(^([-]?[0-9]{1,2})$)|(^([-]?[0-9]{1,2}\.[0-9]{1,15})$)"
+	lat_regex = custom_field.latlong["lat_validator_regex"] if not custom_field.latlong["lat_validator_regex"].empty?
+	lon_regex = custom_field.latlong["long_validator_regex"] if not custom_field.latlong["long_validator_regex"].empty?
+%>
+
+<p>
+  <%=label_tag l(:label_lat_validator_regex) %>
+  <%=text_field_tag "custom_field[latlong][lat_validator_regex]", lat_regex %>                            
+</p>
+<p>
+  <%=label_tag l(:label_long_validator_regex) %>
+  <%=text_field_tag "custom_field[latlong][long_validator_regex]", lon_regex %>
+</p>
